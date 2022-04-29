@@ -5,6 +5,9 @@ Su objetivo es practicar los conocimientos previamente aprendidos en el curo sob
 
 El sitio seleccionado es: 
 https://feedback.naughtydog.com/hc/en-us
+
+
+
 ![image](https://user-images.githubusercontent.com/72479030/165882716-40fb58f5-2c26-402a-ac1e-512681c72b86.png)
 
 
