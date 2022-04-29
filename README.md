@@ -1,5 +1,9 @@
 # Proyecto1
 
+Autor: Mariana David 
+Carnet: 201055
+-----------------------------------------------------------------------------------
+
 En este proyecto se pretende crear una copia identica del estilo del sitio seleccionado. 
 Su objetivo es practicar los conocimientos previamente aprendidos en el curo sobre el tema del stack de desarrollo web de javascript. 
 
@@ -10,7 +14,7 @@ https://feedback.naughtydog.com/hc/en-us
 
 ![image](https://user-images.githubusercontent.com/72479030/165882716-40fb58f5-2c26-402a-ac1e-512681c72b86.png)
 
-
+----------------------------------------------------------
 Las tecnologias implementadas fueron:
 
 - css: loader: para cargar las imagenes 
@@ -26,13 +30,14 @@ Las tecnologias implementadas fueron:
 ------------------------------------------------------------
 Para inicializar el proyecto: 
 
--npm install 
--npm start 
+- npm install 
+- npm start 
 
 (Si es necesario installar nuevamente webpack)
  
 Nota: Abrir archivo directo del bundle y abrir index con Open Live Server 
-----------------------------------------------------------------
+
+-------------------------------------------------------------------------------------
 Proyecto en el servidor 3000 (nginx)
 
 http://54.161.148.179:3000/
