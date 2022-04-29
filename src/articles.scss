@@ -1,0 +1,39 @@
+
+.article{
+margin-left: 6%;
+}
+
+.article .titulo{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+
+
+.linea{
+    background: #ccc;
+	height: 1px;
+	width: 100%;
+	display: block;
+}
+
+.linea-centro{
+    margin-top: 50px;
+    margin-right: 6%;
+    margin-bottom: 100px;
+}
+
+
+.parrafos{
+    display: flex;
+    gap: 40px;
+    width: 70%;
+    
+}
+
+@media screen and (max-width: 1000px) {
+    .parrafos{
+        flex-wrap: wrap;
+    }
+}
+

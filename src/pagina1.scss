@@ -1,0 +1,39 @@
+.titulo1{
+    margin-left: 20%;
+    font-size: 37px;
+    font-weight: bold;
+    
+}
+
+.parrafos{
+    display: flex;
+    width: 100%;
+    margin-left: 20%;
+    
+    justify-content: center;
+
+    
+}
+
+.parrafo1{
+    flex-grow: 1;
+    flex-shrink: 1;
+    width: 50%;
+
+    line-height: 30px;
+
+}
+
+.parrafo2{
+    flex-grow: 1;
+    flex-shrink: 1;
+    width: 50%;
+
+    line-height: 30px;
+    
+}
+
+.subtitulo{
+    font-size: 22px;
+    font-weight: bold;
+}
