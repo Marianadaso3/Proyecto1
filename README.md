@@ -21,3 +21,18 @@ Las tecnologias implementadas fueron:
 - Html: unicamente para el index
 - Ssas: para el diseño/estilo del proyecto 
 - Babel: para transformar el codigo escrito 
+
+
+------------------------------------------------------------
+Para inicializar el proyecto: 
+
+-npm install 
+-npm start 
+
+(Si es necesario installar nuevamente webpack)
+ 
+Nota: Abrir archivo directo del bundle y abrir index con Open Live Server 
+----------------------------------------------------------------
+Proyecto en el servidor 3000 (nginx)
+
+http://54.161.148.179:3000/
