@@ -1,0 +1,26 @@
+.contenedor-secundario{
+
+    display: flex;
+
+    justify-content: space-between;
+    align-items: center;
+
+    width: 86%;
+    margin: auto;
+    margin-top: 15px;
+}
+
+.barra-secundario{
+
+    display: flex;
+    height: 35px;
+    width: 25%;
+    background: #fff;
+    color: #aaa;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    justify-content: start;
+    align-items: center;
+    overflow: hidden;
+}
+

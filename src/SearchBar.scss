@@ -1,0 +1,42 @@
+
+.box {
+  width: 96%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 300px;
+  background: rgb(211, 44, 44);
+  border-radius: 1%;
+}
+
+.barra{
+  display: flex;
+  width: 50%;
+  height: 40px;
+  background: #fff;
+  color: #aaa;
+  border: 2px solid #fff;
+  border-radius: 30px;
+  justify-content: start;
+  align-items: center;
+  overflow: hidden;
+  
+}
+
+.contenedor-icono{
+  margin-left: 2%;
+}
+
+.icono{
+  height: 100%;
+}
+
+.buscar{
+  outline: none;
+  border: none;
+  margin-left: 1%;
+  width: auto;
+}
+
+
